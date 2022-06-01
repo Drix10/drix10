@@ -25,22 +25,22 @@
 ## 📈 Stats
 
 <div align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=drix10&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=drix10&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 <br />
 <br />
 </div>
 <p align="left">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=drix10&theme=tokyonight"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=drix10&theme=tokyonight"/>
     </a>
 </p>
 <p align="left"> 
 <a href="https://github.com/drix10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="left">
-<img height="50em" src="https://komarev.com/ghpvc/?username=drix10&color=brightgreen" alt="watching_count">
+<img height="40em" src="https://komarev.com/ghpvc/?username=drix10&color=brightgreen" alt="watching_count">
 </p>
 
 
