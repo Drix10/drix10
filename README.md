@@ -52,4 +52,4 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/367572336918003712.png)
 
 ## :alarm_clock: Contributions
-<p align="center"><img src= "https://github.com/LoopGlitch26/LoopGlitch26/blob/output/github-contribution-grid-snake.gif">
+<p align="center"><img src= "https://github.com/LoopGlitch26/drix10/blob/output/github-contribution-grid-snake.gif">
