@@ -29,12 +29,14 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=drix10&show_icons=true&hide_border=true" alt="DRIX10's GitHub Stats">
 <br />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=drix10.drix10" alt="Visitors">
 </div>
 <p align="center"> 
 <a href="https://github.com/drix10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+<p align="center">
+<img height="50em" src="https://komarev.com/ghpvc/?username=drix10&color=brightgreen" alt="watching_count">
 </p>
 
 
