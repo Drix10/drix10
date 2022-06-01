@@ -31,6 +31,12 @@
 <br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=drix10.drix10" alt="visitors">
 </div>
+<p align="center"> 
+<a href="https://github.com/HAPPY7131">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ## 🔗 Contact
 
@@ -43,3 +49,4 @@
 
 
 ![Discord](https://discord.c99.nl/widget/theme-2/367572336918003712.png)
+ 
