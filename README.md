@@ -29,7 +29,7 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=drix10&show_icons=true&hide_border=true" alt="DRIX10's GitHub Stats">
 <br />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=drix10.drix10" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=drix10.drix10" alt="Visitors">
 </div>
 <p align="center"> 
 <a href="https://github.com/drix10">
