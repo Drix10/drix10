@@ -37,3 +37,9 @@
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/367572336918003712)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/drix10)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drix_10_/)
+
+
+## 🖥️ Status
+
+
+![Discord](https://discord.c99.nl/widget/theme-2/367572336918003712.png)
