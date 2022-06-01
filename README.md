@@ -24,18 +24,22 @@
 ![picsart](https://img.shields.io/badge/picsart-000000?style=for-the-badge&logo=picsart&logoColor=white)
 ## 📈 Stats
 
-<div align="center">
+<div align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=drix10&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=drix10&show_icons=true&hide_border=true" alt="DRIX10's GitHub Stats">
 <br />
 </div>
-<p align="center"> 
+<p align="left">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=drix10&theme=tokyonight"/>
+    </a>
+</p>
+<p align="left"> 
 <a href="https://github.com/drix10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="center">
+<p align="left">
 <img height="50em" src="https://komarev.com/ghpvc/?username=drix10&color=brightgreen" alt="watching_count">
 </p>
 
@@ -52,4 +56,6 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/367572336918003712.png)
 
 ## :alarm_clock: Contributions
-<p align="center"><img src= "https://github.com/LoopGlitch26/drix10/blob/output/github-contribution-grid-snake.gif">
+
+
+<p align="center"><img src= "https://github.com/drix10/drix10/blob/output/github-contribution-grid-snake.gif"> 
