@@ -25,7 +25,7 @@
 ## 📈 Stats
 
 <div align="left">
-    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=drix10&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=drix10&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
 <br />
 <br />
 </div>
