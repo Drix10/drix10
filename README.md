@@ -23,7 +23,7 @@
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![picsart](https://img.shields.io/badge/picsart-000000?style=for-the-badge&logo=picsart&logoColor=white)
 ## 📈 Stats
-
+<p align="center"><img src="https://github.com/Drix10/Drix10/blob/main/github-metrics.svg">
 <div align="left">
     <img height="130em" src="https://github-profile-trophy.vercel.app/?username=drix10&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
 <br />
@@ -39,6 +39,7 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 <p align="left">
 <img height="40em" src="https://komarev.com/ghpvc/?username=drix10&color=brightgreen" alt="watching_count">
 </p>
