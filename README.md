@@ -54,5 +54,5 @@
 
 ## 🖥️ Status
 
-![Discord](https://discord.c99.nl/widget/theme-3/367572336918003712.png)
+![Discord](https://discord.c99.nl/widget/theme-3/954367061222633472.png)
 
