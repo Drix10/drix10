@@ -1,10 +1,10 @@
 
 ## 🚀 About Me
-🎓 I am Drishtant Ghosh, a **Lost Developer** (specializing in **Any framework just the project must be good**)
+🎓 I am Drishtant Ghosh, a **Lost Developer** (specializing in **any framework just the project must be of my liking**)
 
-⭐ I am an **Open Source Contributor** as well as a professional **Discord Bot Developer**
+⭐ I am an **Open Source Contributor** as well as a professional, profitable **Discord Bot Developer**
 ## 🏅 Achievements
-🏆 Developer of **ReeF Bot & Uchiha Bot** Having more Than **1,000,000+** users
+🏆 Developer of **ReeF Bot & Uchiha Bot** Having more Than **2,000,000+** commands used
 
 🤝 **MLH Not University Hacks** Participant in Mid *2020* 
 
