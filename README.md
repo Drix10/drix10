@@ -1,8 +1,6 @@
 
 ## 🚀 About Me
-🎓 I am Drishtant Ghosh, a **Front End Developer** (specializing in **JavaScript Applications**)
-
-📚 I am currently preparing for **JEE** & pursuing my Dreams
+🎓 I am Drishtant Ghosh, a **Lost Developer** (specializing in **Any framework just the project must be good**)
 
 ⭐ I am an **Open Source Contributor** as well as a professional **Discord Bot Developer**
 ## 🏅 Achievements
