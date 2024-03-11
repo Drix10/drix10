@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-🎓 I am Drishtant Ghosh, a **Lost Developer** (specializing in **any framework just the project must be of my liking**)
+🎓 I am Drishtant Ghosh, a **Genius Developer** (specializing in **any framework just the project must be of my liking**)
 
 ⭐ I am an **Open Source Contributor** as well as a professional, profitable **Discord Bot Developer**
 ## 🏅 Achievements
