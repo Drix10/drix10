@@ -4,7 +4,7 @@
 
 ⭐ I am an **Open Source Contributor** as well as a professional, profitable **Discord Bot Developer**
 ## 🏅 Achievements
-🏆 Developer of **ReeF Bot & Uchiha Bot** Having more Than **2,000,000+** commands used
+🏆 Creator of **ReeF Bot & Uchiha Bot** Having more Than **2,000,000+** commands used
 
 🤝 **MLH Not University Hacks** Participant in Mid *2020* 
 
