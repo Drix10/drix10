@@ -1,25 +1,42 @@
 
+# Hi there, I'm Drishtant Ghosh 👋
+
 ## 🚀 About Me
-🎓 I am Drishtant Ghosh, a **Full Stack Developer** (specializing in **nodejs framework and handling databases**)
+I'm an 18-year-old serial founder, full stack developer  specializing in **React, Node.js, and database management**, building cool stuff since 2020. Currently, I'm working on [@CoslynxAI](https://x.com/CoslynxAI), an MVP maker that creates custom MVPs in minutes. We're finalists in [@withBackdrop](https://x.com/withBackdrop) build v4 and launching this month!
 
-⭐ I am an **Open Source Contributor** as well as a professional, profitable **Discord Bot Developer**
-## 🏅 Achievements
-🏆 Creator of **ReeF Bot & Uchiha Bot** Having more Than **2,000,000+** commands used
 
-🤝 **MLH Not University Hacks** Participant in Mid *2020* 
+## 🏆 Achievements
+- 🚀 Founder of **CoslynxAI**, finalist in Backdrop build v4
+- 💰 Sold first startup for $10,000 at the age of 18 of $5000 ARR
+- 🤖 Created **ReeF Bot, Uchiha Bot** with over **5,000,000+** interactions
+- 🥇 State Qualifier of **NTSE, NSO, IMO** Examinations *2019-2020*
 
-🥇 State Qualifier of **NTSE, NSO, IMO** Examinations *2019-2020*
 ## 🛠️ Skills
-### Languages
+
+### Languages & Frameworks
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+
+
+### Databases
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-### Softwares
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![replit](https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![picsart](https://img.shields.io/badge/picsart-000000?style=for-the-badge&logo=picsart&logoColor=white)
+
+
+### Cloud & DevOps
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+### AI & Machine Learning
+![openai](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![googleai](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
 ## 📈 Stats
 
 <div align="left">
@@ -43,14 +60,17 @@
 </p>
 
 
-## 🔗 Contact
+## 🔗 Connect with me
 
+
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DRIX_10_)
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/954367061222633472)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/drix10)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drix_10_/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drix10)
 
 
-## 🖥️ Status
+## 🖥️ Discord Status
+
 
 ![Discord](https://discord.c99.nl/widget/theme-3/954367061222633472.png)
-
