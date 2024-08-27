@@ -7,7 +7,7 @@ I'm an 18-year-old serial founder, full stack developer  specializing in **React
 
 ## 🏆 Achievements
 - 🚀 Founder of **CoslynxAI** (MVP Maker), finalist in Backdrop build v4
-- 💰 One time acquired founder at the age of 18 having $5000 ARR
+- 💰 One time acquired founder at the age of 18 having $15,000 ARR
 - 🤖 Created **ReeF Bot, Uchiha Bot** with over **5,000,000+** interactions
 - 🥇 State Qualifier of **NTSE, NSO, IMO** Examinations *2019-2020*
 
