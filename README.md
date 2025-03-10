@@ -1,7 +1,7 @@
 # Hi there, I'm Drishtant Ghosh 👋
 
 ## 🚀 About Me
-I'm an 18-year-old serial founder, backend developer, building cool stuff since 2019. Currently, I'm working on [@CoslynxAI](https://x.com/CoslynxAI), a MVP maker that creates custom MVPs in minutes. We're finalists in [@withBackdrop](https://x.com/withBackdrop) build v4 and launching this year!
+I'm an 18-year-old serial founder, backend developer, building cool stuff since 2019. Currently, I'm working on [@CoslynxAI](https://x.com/CoslynxAI), a MVP maker that creates custom MVPs in minutes. We're finalists in [@withBackdrop](https://x.com/withBackdrop) build v4 and launching this year! Also learning to crack the code of distribution via Consumer Apps, currently making [@IdolChat](https://x.com/idolchat_app) and automating marketing via IG and TT short form content.
 
 
 ## 🏆 Achievements
