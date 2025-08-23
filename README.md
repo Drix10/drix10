@@ -38,11 +38,6 @@ I'm an 19-year-old serial founder, backend developer, building cool stuff since 
 
 ## 📈 Stats
 
-<div align="left">
-    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=drix10&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
-<br />
-<br />
-</div>
 <p align="left">
     <a href="https://git.io/streak-stats">
         <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=drix10&theme=tokyonight"/>
@@ -50,7 +45,7 @@ I'm an 19-year-old serial founder, backend developer, building cool stuff since 
 </p>
 <p align="left"> 
 <a href="https://github.com/drix10">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drix10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
