@@ -11,7 +11,7 @@
 
 **`drishtant@ghosh:~$`** `whoami`
 
-*19-year-old serial founder · backend engineer · building since 2019*
+*20-year-old serial founder · backend engineer · building since 2019*
 
 [![](https://img.shields.io/badge/▸_LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/drix10)
 [![](https://img.shields.io/badge/▸_Email-EA4335?style=flat-square&logoColor=white)](mailto:ggdrishtant@gmail.com)
@@ -30,8 +30,8 @@ $ cat about.json
 {
   "name"     : "Drishtant Ghosh",
   "alias"    : "Drix10",
-  "age"      : 19,
-  "base"     : "Bhubaneswar, Odisha, India",
+  "age"      : 20,
+  "base"     : "Bangalore, India",
   "status"   : "building",
   "acquired" : true,
   "arr"      : "$15,000 @ 18 yrs old",
@@ -95,7 +95,7 @@ $ ls ./projects/ --sort=stars
 | [`IdolChat.app`](https://idolchat.app) | Next.js · RN · Prisma · Redis · Gemini | AI character game · 40+ beta testers · App Store bound |
 | [`Carbon Trade X`](https://www.youtube.com/watch?v=RGB2SPp3Gk8) | Trading Systems | Institutional carbon credit market infrastructure |
 | [`hypothesis-arena`](https://github.com/Drix10/hypothesis-arena) | TS · Express · Google AI · WebSockets | 4 AI traders debating WEEX crypto — real-time |
-| [`YourResume`](https://your-resumeai.vercel.app) | React · Vite · TS · Google AI | GitHub + LinkedIn → ATS-optimised resume · [live ↗](https://your-resumeai.vercel.app) |
+| [`YourResume`](https://your-resume-ai.vercel.app) | React · Vite · TS · Google AI | GitHub + LinkedIn → ATS-optimised resume |
 | [`ReeF DM Bot`](https://github.com/Drix10/instagram-ai) | Node.js · Gemini 1.5 Flash · Instagram API | Reels → weekly study schedules via Instagram DM |
 | [`PyAdvisor`](https://github.com/Drix10/PyAdvisor) | Python · Hugging Face | GitHub data → AI career advisor CLI |
 | `ReeF Bot` *(acq.)* | Discord.js · Node.js · Mongoose | 5M+ interactions · $15K ARR · **acquired** |
