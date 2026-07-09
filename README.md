@@ -32,13 +32,10 @@ $ cat about.json
   "alias"    : "Drix10",
   "age"      : 20,
   "base"     : "Bangalore, India",
-  "status"   : "building",
-  "acquired" : true,
-  "arr"      : "$15,000 @ 18 yrs old",
+  "status"   : "building till its fun",
+  "arr"      : "$15,000 @ 18 yrs old - acquired",
   "interactions" : "5,000,000+ (ReeF + Uchiha Bot)",
-  "current"  : ["IdolChat.app", "Carbon Trade X", "ReeF DM Bot"],
-  "yc_applied" : true,
-  "backdrop" : "finalist — Build v4"
+  "current"  : ["IdolChat.app", "Carbon Trade X", "Instagram Automations"],
 }
 ```
 
@@ -96,7 +93,7 @@ $ ls ./projects/ --sort=stars
 | [`Carbon Trade X`](https://www.youtube.com/watch?v=RGB2SPp3Gk8) | Trading Systems | Institutional carbon credit market infrastructure |
 | [`hypothesis-arena`](https://github.com/Drix10/hypothesis-arena) | TS · Express · Google AI · WebSockets | 4 AI traders debating WEEX crypto — real-time |
 | [`YourResume`](https://your-resume-ai.vercel.app) | React · Vite · TS · Google AI | GitHub + LinkedIn → ATS-optimised resume |
-| [`ReeF DM Bot`](https://github.com/Drix10/instagram-ai) | Node.js · Gemini 1.5 Flash · Instagram API | Reels → weekly study schedules via Instagram DM |
+| [`ReeF DM Bot`](https://github.com/Drix10/instagram-ai) | Node.js · MeshAPI · Instagram API | Reels → weekly study schedules via Instagram DM |
 | [`PyAdvisor`](https://github.com/Drix10/PyAdvisor) | Python · Hugging Face | GitHub data → AI career advisor CLI |
 | `ReeF Bot` *(acq.)* | Discord.js · Node.js · Mongoose | 5M+ interactions · $15K ARR · **acquired** |
 
