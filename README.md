@@ -88,7 +88,7 @@ $ ls ./projects/ --sort=stars
 
 | repo | stack | signal |
 |---|---|---|
-| [`ai-resources`](https://github.com/Drix10/ai-resources) | Markdown · GH Actions | ⭐ 110 stars · 25 forks · **6,500+ commits** · auto-updated daily |
+| [`ai-resources`](https://github.com/Drix10/ai-resources) | X Scrapping · Linked Posts | ⭐ 110 stars · 25 forks · **6,500+ commits** · auto-updated daily |
 | [`IdolChat.app`](https://idolchat.app) | Next.js · RN · Prisma · Redis · Gemini | AI character game · 40+ beta testers · App Store bound |
 | [`Carbon Trade X`](https://www.youtube.com/watch?v=RGB2SPp3Gk8) | Trading Systems | Institutional carbon credit market infrastructure |
 | [`hypothesis-arena`](https://github.com/Drix10/hypothesis-arena) | TS · Express · Google AI · WebSockets | 4 AI traders debating WEEX crypto — real-time |
