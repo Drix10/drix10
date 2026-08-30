@@ -97,7 +97,7 @@ $ ls ./projects/ --sort=recent
 | [`Carbon Trade X`](https://www.youtube.com/watch?v=RGB2SPp3Gk8) | Trading Systems | Institutional carbon credit market · real-time verified pricing · Mar–Apr 2026 |
 | [`IdolChat.app`](https://idolchat.app) | TS · React Native · Expo · Node.js · Prisma · Redis | AI character game · 40+ beta testers · heading to App Store |
 | [`hypothesis-arena`](https://github.com/Drix10/hypothesis-arena) | TS · Express · Gemini AI · WebSockets · Prisma · LibSQL | 4 AI analysts (Jim, Ray, Karen, Quant) debate & execute WEEX futures in real-time · ⭐ 9 stars |
-| [`ai-resources`](https://github.com/Drix10/ai-resources) | X Scraping · GH Actions · Markdown | ⭐ 115 stars+ · 25+ forks · 40+ categories · auto-updated daily |
+| [`ai-resources`](https://github.com/Drix10/ai-resources) | X Scraping · GH Actions · Blogs | ⭐ 115 stars+ · 25+ forks · 40+ categories · https://blogs.drix10.com |
 | [`YourResume`](https://your-resume-ai.vercel.app) | React · Vite · TS · Google AI | GitHub + LinkedIn → ATS-optimised resume · [live ↗](https://your-resume-ai.vercel.app) |
 | [`PyAdvisor`](https://github.com/Drix10/PyAdvisor) | Python · Hugging Face | GitHub data → AI career advisor CLI |
 | `ReeF Bot` *(acq.)* | Discord.js · Node.js · Mongoose | 5M+ interactions · $15K ARR · **acquired Aug 2024** |
