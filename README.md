@@ -136,7 +136,6 @@ $ git log --oneline --graph ./journey/
 * 2026 Jul  ── ReeF DM Bot: Instagram → study schedules via Gemini
 * 2026 Apr  ── Canopy @ Founders, Inc. — autonomous 4-LLM trading platform
 * 2026 Mar  ── Carbon Trade X — institutional carbon credit platform
-* 2026 Feb  ── PayScope @ HackEurope — $314K found in demo
 * 2026 Jan  ── IBM AI Engineering Professional Certificate 🎓
 │
 * 2025 May  ── IdolChat.app — AI character game, heading to App Store
