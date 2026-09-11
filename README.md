@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗██╗  ██╗ ██╗ ██████╗
-██╔══██╗██╔══██╗██║╚██╗██╔╝███║██╔═████╗
-██║  ██║██████╔╝██║ ╚███╔╝ ╚██║██║██╔██║
-██║  ██║██╔══██╗██║ ██╔██╗  ██║████╔╝██║
-██████╔╝██║  ██║██║██╔╝ ██╗ ██║╚██████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═╝ ╚═════╝
-```
-
 **`drishtant@ghosh:~$`** `whoami`
 
 *20 · serial founder · AI systems engineer · building since 2019*
@@ -17,6 +8,7 @@
 [![](https://img.shields.io/badge/▸_Email-EA4335?style=flat-square&logoColor=white)](mailto:ggdrishtant@gmail.com)
 [![](https://img.shields.io/badge/▸_CosLynx.com-FF6B35?style=flat-square&logoColor=white)](https://coslynx.com)
 [![](https://img.shields.io/badge/▸_IdolChat.app-8B5CF6?style=flat-square&logoColor=white)](https://idolchat.app)
+[![](https://img.shields.io/badge/▸_Drix10.com-6C5CE7?style=flat-square&logoColor=white)](https://drix10.com/)
 
 </div>
 
@@ -34,11 +26,11 @@ $ cat about.json
   "base"         : "Bengaluru, Karnataka, India",
   "studying"     : "B.Sc. Cybersecurity @ Dayananda Sagar University (2026–2029)",
   "status"       : "building till it's fun",
-  "arr"          : "$15,000 @ 18 yrs old — acquired",
+  "arr"          : "$15,000 @ 16 yrs old — acquired",
   "interactions" : "5,000,000+ (ReeF + Uchiha Bot)",
   "mvps_shipped" : "400+ via CosLynx",
-  "hackathons"   : "🏆 Backdrop Build v4 (Jun 2024) · 🏆 Backdrop Build v6 (Aug 2024) · OpenAI Codex",
-  "current"      : ["Part Pilot", "IdolChat.app", "Sentinel CLI", "PayScope"]
+  "hackathons"   : "🏆 Backdrop Build v4 (Jun 2024) · 🏆 Backdrop Build v6 (Aug 2024) · OpenAI Codex · RZP PayScope",
+  "current"      : ["Part Pilot", "IdolChat.app", "Sentinel CLI", "PayScope", "Keystroke-LLM"]
 }
 ```
 
@@ -76,11 +68,12 @@ FRAMEWORKS=( React.js Next.js "React Native" Expo "Node.js" "Express.js"
              Vite "Tailwind CSS" Prisma Zod LangChain
              "Hugging Face Transformers" )
 
-INFRA=( AWS GCP Docker Kubernetes Vercel "GitHub Actions" )
+INFRA=( AWS GCP Docker Kubernetes Vercel "GitHub Actions" Supabase )
 
 DATABASES=( PostgreSQL MongoDB Redis SQLite LibSQL TursoDB )
 
-TOOLS=( Jest Vitest Playwright Sentry JWT bcryptjs WebSockets Sharp Helmet )
+TOOLS=( Jest Vitest Playwright Sentry JWT bcryptjs WebSockets Sharp Helmet
+        hidapi NumPy "Payment APIs" "LLM APIs" SSE Nodemailer )
 ```
 
 ---
@@ -91,6 +84,8 @@ $ ls ./projects/ --sort=recent
 
 | repo | stack | signal |
 |---|---|---|
+| [`Keystroke-LLM`](https://github.com/Drix10/keystroke-llm) | Python · NumPy · USB HID · EVision V2 · C | Character-level Transformer predicts next key, lights LEDs on Kreo Hive 75 · pure NumPy · sub-2ms latency · reverse-engineered EVision V2 protocol · 207K char corpus · [Live demo ▸](https://www.linkedin.com/posts/drix10_llm-ondeviceai-mechanicalkeyboards-activity-7503825549148975105-CW31) |
+| [`PayScope`](https://github.com/Drix10/payscope) | TypeScript · React · Node.js · Supabase · Razorpay · Mesh API | Autonomous payment-operations platform for Razorpay merchants · multi-agent investigation (Supervisor, Risk Analyst, Recovery Planner) · 13 policy safety gates · HMAC-SHA256 webhook signing · SSE incident feed <50ms · Razorpay AI Buildathon |
 | [`Sentinel`](https://github.com/Drix10) | TS · Node.js · AI · Commander CLI | AST parsing + knowledge/attack graphs + zero-breakage AI patching · OpenAI Codex hackathon |
 | [`Intent Canvas`](https://github.com/Drix10) | TS · React · Express · Vite · Tailwind · Zod | Revenue ops workspace — Dodo Payments webhooks → churn risk scores + AI recovery plans · OpenAI Codex hackathon |
 | [`ReeF DM Bot`](https://github.com/Drix10/instagram-ai) | Node.js · AI · Instagram API · MongoDB | Reels → weekly study schedules + transcribed notes via Instagram DM |
@@ -98,7 +93,7 @@ $ ls ./projects/ --sort=recent
 | [`IdolChat.app`](https://idolchat.app) | TS · React Native · Expo · Node.js · Prisma · Redis | AI character game · 40+ beta testers · heading to App Store |
 | [`hypothesis-arena`](https://github.com/Drix10/hypothesis-arena) | TS · Express · Gemini AI · WebSockets · Prisma · LibSQL | 4 AI analysts (Jim, Ray, Karen, Quant) debate & execute WEEX futures in real-time · ⭐ 9 stars |
 | [`ai-resources`](https://github.com/Drix10/ai-resources) | X Scraping · GH Actions · Blogs | ⭐ 115 stars+ · 25+ forks · 40+ categories · https://blogs.drix10.com |
-| [`YourResume`](https://your-resume-ai.vercel.app) | React · Vite · TS · Google AI | GitHub + LinkedIn → ATS-optimised resume · [live ↗](https://your-resume-ai.vercel.app) |
+| [`YourResume`](https://your-resume-ai.vercel.app) | React · Vite · TS · Google AI | GitHub + LinkedIn → ATS-optimised resume · [live ▸](https://your-resume-ai.vercel.app) |
 | [`PyAdvisor`](https://github.com/Drix10/PyAdvisor) | Python · Hugging Face | GitHub data → AI career advisor CLI |
 | `ReeF Bot` *(acq.)* | Discord.js · Node.js · Mongoose | 5M+ interactions · $15K ARR · **acquired Aug 2024** |
 
@@ -121,6 +116,10 @@ $ cat ./hackathons.log
 
 [ENT] NYC Code Quest — Sentinel (8hr live round)               Jul 2026
       AST parsing + AI + zero-breakage vulnerability patching.
+
+[ENT] Razorpay AI Buildathon — PayScope                        Aug 2026
+     Autonomous payment-ops agent for Razorpay merchants.
+     Multi-agent investigation + deterministic recovery engine
 ```
 
 ---
@@ -130,12 +129,14 @@ $ git log --oneline --graph ./journey/
 ```
 
 ```
+* 2026 Sep  ── Keystroke-LLM: character-level Transformer on Kreo Hive 75
 * 2026 Aug  ── B.Sc. Cybersecurity started @ Dayananda Sagar University
-* 2026 Aug  ── OpenAI Codex hackathon — Intent Canvas / Revenue Rescue
+* 2026 Feb  ── PayScope: autonomous payment-ops agent @ Razorpay AI Buildathon
 * 2026 Jul  ── Sentinel: AST + Gemini 2.5 Flash security CLI
 * 2026 Jul  ── ReeF DM Bot: Instagram → study schedules via Gemini
 * 2026 Apr  ── Canopy @ Founders, Inc. — autonomous 4-LLM trading platform
 * 2026 Mar  ── Carbon Trade X — institutional carbon credit platform
+* 2026 Feb  ── PayScope @ HackEurope — $314K found in demo
 * 2026 Jan  ── IBM AI Engineering Professional Certificate 🎓
 │
 * 2025 May  ── IdolChat.app — AI character game, heading to App Store
