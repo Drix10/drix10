@@ -30,7 +30,7 @@ $ cat about.json
   "interactions" : "5,000,000+ (ReeF + Uchiha Bot)",
   "mvps_shipped" : "400+ via CosLynx",
   "hackathons"   : "🏆 Backdrop Build v4 (Jun 2024) · 🏆 Backdrop Build v6 (Aug 2024) · OpenAI Codex · RZP PayScope",
-  "current"      : ["Part Pilot", "IdolChat.app", "Sentinel CLI", "PayScope", "Keystroke-LLM"]
+  "current"      : ["IdolChat.app", "Sentinel CLI", "PayScope", "Keystroke-LLM"]
 }
 ```
 
