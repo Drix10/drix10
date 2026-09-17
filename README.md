@@ -22,7 +22,6 @@ $ cat about.json
 {
   "name"         : "Drishtant Ghosh",
   "alias"        : "Drix10",
-  "age"          : 20,
   "base"         : "Bengaluru, Karnataka, India",
   "studying"     : "B.Sc. Cybersecurity @ Dayananda Sagar University (2026–2029)",
   "status"       : "building till it's fun",
@@ -84,6 +83,9 @@ $ ls ./projects/ --sort=recent
 
 | repo | stack | signal |
 |---|---|---|
+| [`Night-Hunt`](https://github.com/Drix10/ml-videos) | Python · PyTorch · NumPy · Pygame | Owl hunts 32 mice sharing one tiny MLP brain that evolves
+ escape behavior from scratch, growing new senses level by level · 1800-frame episodes, deaths-dominated scoring · renders honest training runs as 9:16
+ video · [Watch ▸](https://lnkd.in/p/gxWdsT4Q) |
 | [`Keystroke-LLM`](https://github.com/Drix10/keystroke-llm) | Python · NumPy · USB HID · EVision V2 · C | Character-level Transformer predicts next key, lights LEDs on Kreo Hive 75 · pure NumPy · sub-2ms latency · reverse-engineered EVision V2 protocol · 207K char corpus · [Live demo ▸](https://www.linkedin.com/posts/drix10_llm-ondeviceai-mechanicalkeyboards-activity-7503825549148975105-CW31) |
 | [`PayScope`](https://github.com/Drix10/payscope) | TypeScript · React · Node.js · Supabase · Razorpay · Mesh API | Autonomous payment-operations platform for Razorpay merchants · multi-agent investigation (Supervisor, Risk Analyst, Recovery Planner) · 13 policy safety gates · HMAC-SHA256 webhook signing · SSE incident feed <50ms · Razorpay AI Buildathon |
 | [`Sentinel`](https://github.com/Drix10) | TS · Node.js · AI · Commander CLI | AST parsing + knowledge/attack graphs + zero-breakage AI patching · OpenAI Codex hackathon |
