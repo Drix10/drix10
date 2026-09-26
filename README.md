@@ -142,7 +142,7 @@ $ git log --oneline --graph ./journey/
 │
 * 2024 Aug  ── ReeF ACQUIRED 🎉 · Backdrop Build v6 Finalist
 * 2024 Jun  ── Backdrop Build v4 Finalist — CosLynx
-* 2024 May  ── CosLynx.com founded · YC applied
+* 2024 May  ── CosLynx.com founded · Backed by startup programs of Google,MSFT,AMZN
 │
 * 2023 Apr  ── Freelance → full-time founder
 * 2022 Apr  ── ReeF founded — anime battle Discord game
