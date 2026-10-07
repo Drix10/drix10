@@ -2,166 +2,251 @@
 
 **`drishtant@ghosh:~$`** `whoami`
 
+# Drishtant Ghosh · Drix10
+
 *20 · serial founder · AI systems engineer · building since 2019*
 
-[![](https://img.shields.io/badge/▸_LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/drix10)
-[![](https://img.shields.io/badge/▸_Email-EA4335?style=flat-square&logoColor=white)](mailto:ggdrishtant@gmail.com)
-[![](https://img.shields.io/badge/▸_CosLynx.com-FF6B35?style=flat-square&logoColor=white)](https://coslynx.com)
-[![](https://img.shields.io/badge/▸_IdolChat.app-8B5CF6?style=flat-square&logoColor=white)](https://idolchat.app)
-[![](https://img.shields.io/badge/▸_Drix10.com-6C5CE7?style=flat-square&logoColor=white)](https://drix10.com/)
+Bengaluru, India &nbsp;·&nbsp; B.Sc. Cybersecurity @ Dayananda Sagar University &nbsp;·&nbsp; building till it's fun
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drix10)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggdrishtant@gmail.com)
+[![Website](https://img.shields.io/badge/drix10.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drix10.com/)
+[![CosLynx](https://img.shields.io/badge/CosLynx.com-FF6B35?style=for-the-badge)](https://coslynx.com)
+[![IdolChat](https://img.shields.io/badge/IdolChat.app-8B5CF6?style=for-the-badge)](https://idolchat.app)
+[![Followers](https://img.shields.io/github/followers/Drix10?style=for-the-badge&logo=github&label=followers&color=181717)](https://github.com/Drix10?tab=followers)
+
+[**now**](#-now) · [**projects**](#-projects) · [**experience**](#-experience) · [**hackathons**](#-hackathons) · [**journey**](#-journey) · [**stack**](#-stack) · [**connect**](#-connect)
 
 </div>
 
----
+<br>
 
-```bash
-$ cat about.json
-```
+<div align="center">
+
+| **$15K ARR** | **5M+** | **400+** | **3** |
+|:---:|:---:|:---:|:---:|
+| at 16 yrs old, acquired | bot interactions<br>(ReeF + Uchiha Bot) | MVPs shipped<br>via CosLynx | hackathon<br>rounds in 2026 |
+
+</div>
+
+<br>
+
+## ▸ now
 
 ```json
 {
-  "name"         : "Drishtant Ghosh",
-  "alias"        : "Drix10",
-  "base"         : "Bengaluru, Karnataka, India",
-  "studying"     : "B.Sc. Cybersecurity @ Dayananda Sagar University (2026–2029)",
-  "status"       : "building till it's fun",
-  "arr"          : "$15,000 @ 16 yrs old — acquired",
-  "interactions" : "5,000,000+ (ReeF + Uchiha Bot)",
-  "mvps_shipped" : "400+ via CosLynx",
-  "current"      : ["Agent Flow", "MiroHedge", "Keystroke-LLM", "IdolChat.app"],
-  "focus"        : ["AI systems", "agent infrastructure", "security", "research + trading"]
+  "name"    : "Drishtant Ghosh",
+  "alias"   : "Drix10",
+  "base"    : "Bengaluru, Karnataka, India",
+  "studying": "B.Sc. Cybersecurity @ Dayananda Sagar University (2026–2029)",
+  "current" : ["Agent Flow", "MiroHedge", "Keystroke-LLM", "IdolChat.app"],
+  "focus"   : ["AI systems", "agent infrastructure", "security", "research + trading"],
+  "status"  : "building till it's fun"
 }
 ```
 
----
+<br>
+
+## ▸ projects
+
+> `ls ./projects/ --sort=recent` &nbsp;·&nbsp; star counts and versions below are live badges.
+
+### Flagship
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ [Agent Flow](https://github.com/Drix10/agent-flow)
+
+**Run AI coding agents unattended without letting them go loose.**
+
+One agent implements, another reviews, a third runs QA, and a guard blocks what they must never touch. You come back to a draft PR and a short list of what needs you.
+
+- Context-drift detection, protected paths, secret/read restrictions
+- Mechanical risk classification and policy gates
+- Hash-chained, tamper-evident audit log
+- Works with Claude Code, Codex, Gemini CLI, Cursor, Copilot, Windsurf, Pi and any tool that reads `AGENTS.md`
+- Zero runtime dependencies · MIT
+
+`TypeScript` `Node.js` `CLI` `AI agent tooling`
 
 ```bash
-$ ls -la ./experience/
+npx @drix10/agent-flow scan
 ```
+
+[![npm](https://img.shields.io/npm/v/@drix10/agent-flow?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/@drix10/agent-flow)
+[![downloads](https://img.shields.io/npm/dm/@drix10/agent-flow?style=flat-square&label=installs%2Fmo)](https://www.npmjs.com/package/@drix10/agent-flow)
+[![stars](https://img.shields.io/github/stars/Drix10/agent-flow?style=flat-square&logo=github)](https://github.com/Drix10/agent-flow)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [MiroHedge](https://github.com/Drix10/hypothesis-arena)
+
+**An AI-assisted systematic fund that trades the slow spread of news between linked firms.**
+
+News about one company reaches its suppliers, customers and peers late. The *Connected Drift Book* combines link propagation, filing-text change and insider buys, while deterministic code sizes, risks and executes every trade.
+
+- **Models read, code decides**: a model never sizes, orders or touches an exit
+- **HOLD is the default**: stale data or conflicting evidence means no trade
+- Hash-chained trial ledger; strategies must pass net-of-cost, search-adjusted gates (deflated Sharpe, overfitting probability, 2x cost test)
+- C++17 risk/execution kernel · Alpaca paper transport
+
+`C++17` `Python` `Alpaca` `research/statistics`
+
+**Paper only · no real money · no strategy has passed a gate yet**
+
+[![stars](https://img.shields.io/github/stars/Drix10/hypothesis-arena?style=flat-square&logo=github)](https://github.com/Drix10/hypothesis-arena)
+[![site](https://img.shields.io/badge/mirohedge.com-111?style=flat-square)](https://www.mirohedge.com/)
+
+</td>
+</tr>
+</table>
+
+### Security, payments & product builds
+
+| Project | What it does | Signal |
+|---|---|---|
+| [**Sentinel**](https://github.com/Drix10/sentinal)<br>`TypeScript` `AST` `Gemini` | Application-security CLI: compiles code into an IR and knowledge graph, synthesizes multi-hop attack graphs, then applies AI patches only after zero-breakage verification, with snapshot rollback. SARIF export for GitHub Code Scanning. | **NYC Code Quest live round: #3** · [`npm i -g sentinel-ai-cli`](https://www.npmjs.com/package/sentinel-ai-cli) |
+| [**PayScope**](https://github.com/Drix10/payscope)<br>`TypeScript` `React` `Supabase` `Razorpay` | Autonomous payment-operations platform: signed Razorpay webhooks become incident timelines, a Supervisor / Risk Analyst / Recovery Planner investigation, deterministic recovery selection, transactional-outbox execution and callback reconciliation. | **13 safety gates · <50ms SSE feed** · Razorpay AI Buildathon |
+| [**Intent Canvas**](https://github.com/Drix10/intent-canvas)<br>`TypeScript` `React` `Vite` `Zod` | Browser-first spatial workspace where datasets, documents and intent compile into an inspectable plan you approve before anything runs. | **4 execution capabilities** · [live demo](https://intent-canvas.vercel.app/) |
+| [**IdolChat.app**](https://idolchat.app)<br>`React Native` `Expo` `Prisma` `Redis` | AI character mobile game: create characters, chat with them and collect cards through daily drops. | **~1,000 waitlist** |
+| [**YourResume**](https://github.com/Drix10/YourResume)<br>`React` `Vite` `TypeScript` | AI resume builder that merges GitHub and LinkedIn profile data into tailored, ATS-oriented resumes. | [live app](https://your-resume-ai.vercel.app) · ![stars](https://img.shields.io/github/stars/Drix10/YourResume?style=flat-square&label=%E2%98%85) |
+
+### ML, hardware & research experiments
+
+| Project | What it does | Signal |
+|---|---|---|
+| [**Keystroke-LLM**](https://github.com/Drix10/keystroke-llm)<br>`Python` `NumPy` `USB HID` | A character-level Transformer written from scratch in pure NumPy that predicts your next key locally and lights it up on a Kreo Hive 75 through a reverse-engineered EVision V2 HID protocol. Includes a gaming-mode toggle and a mock mode for no hardware. | **207K training chars · 82 keys mapped** · offline, nothing leaves the device |
+| [**Night-Hunt**](https://github.com/Drix10/ml-videos)<br>`Python` `PyTorch` `Pygame` | First project in *ml-videos*, a lab for real training runs rendered as watchable videos: one shared, evolving brain controls 32 mice against an owl and gains six senses through staged training. | **9-unit MLP · genetic algorithm** · replayable checkpoints |
+| [**Grind**](https://github.com/Drix10/Grind)<br>`C` | 100 programs to finish, in order, before touching LeetCode or DSA: basics, then moderate, then challenge. | ![stars](https://img.shields.io/github/stars/Drix10/Grind?style=flat-square&label=%E2%98%85) |
+
+### Automation & knowledge systems
+
+| Project | What it does | Signal |
+|---|---|---|
+| [**ai-resources**](https://github.com/Drix10/ai-resources)<br>`Next.js` `LLMs` `GitHub Actions` | An automated technical knowledge base: a pipeline scrapes curated X/Twitter lists, distills each signal into a quality-gated article and syndicates it to GitHub, [blogs.drix10.com](https://blogs.drix10.com), DEV.to and Medium. Powered by [`ai-resources-pipeline`](https://github.com/Drix10/ai-resources-pipeline). | ![stars](https://img.shields.io/github/stars/Drix10/ai-resources?style=flat-square&label=%E2%98%85) ![forks](https://img.shields.io/github/forks/Drix10/ai-resources?style=flat-square&label=forks) · **41 categories · 200+ editions** |
+| [**ReeF DM Bot**](https://github.com/Drix10/instagram-ai)<br>`Node.js` `Gemini` `MongoDB` | Instagram DM companion that turns educational Reels into weekly study schedules, notes and reminders using transcription and LLM workflows. | production-oriented automation stack |
+| [**autoposter**](https://github.com/Drix10/autoposter)<br>`Node.js` `Discord` | Discord bot that downloads Instagram reels and reposts them to multiple accounts with custom overlays. | ![stars](https://img.shields.io/github/stars/Drix10/autoposter?style=flat-square&label=%E2%98%85) |
+| [**PyAdvisor**](https://github.com/Drix10/PyAdvisor)<br>`Python` `Hugging Face` | Terminal career advisor that analyzes your GitHub activity and generates guided skill recommendations. | ![stars](https://img.shields.io/github/stars/Drix10/PyAdvisor?style=flat-square&label=%E2%98%85) · CLI-first |
+| **ReeF Bot** *(acquired)*<br>`Discord.js` `Mongoose` | Anime character collection and battling Discord game, built from scratch and run at scale. | **$15K ARR · 5M+ interactions · acquired Aug 2024** |
+
+<br>
+
+## ▸ experience
+
+<details open>
+<summary><b>Canopy × Founders Inc.</b> &nbsp;·&nbsp; AI Systems Engineer &nbsp;·&nbsp; <i>Apr 2026 – May 2026</i></summary>
+<br>
+
+Architected an autonomous multi-agent trading platform with four LLM agents in distinct methodology roles, real-time market streaming, persistent state and compliance logging.
+
+</details>
+
+<details open>
+<summary><b>CosLynx.com</b> &nbsp;·&nbsp; Founder & CEO &nbsp;·&nbsp; <i>May 2024 – May 2025</i></summary>
+<br>
+
+Built and operated an AI code-generation platform where users shipped **400+ MVPs**. Wrote the core LLM orchestration system in TypeScript/Node.js. 🏆 Backdrop Build v4 Finalist · 🏆 Backdrop Build v6 Finalist.
+
+</details>
+
+<details open>
+<summary><b>ReeF</b> &nbsp;·&nbsp; Ex-CEO, <i>acquired</i> &nbsp;·&nbsp; <i>Apr 2022 – Aug 2024</i></summary>
+<br>
+
+Anime collecting and battling Discord game. **$15K ARR, 5M+ interactions**, acquired in August 2024.
+
+</details>
+
+<details>
+<summary><b>Freelance</b> &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; <i>Oct 2019 – Apr 2023</i></summary>
+<br>
+
+Node.js applications, Discord bots, automation and open-source work.
+
+</details>
+
+<br>
+
+## ▸ hackathons
+
+| | Event | Project | When | Result |
+|:-:|---|---|---|---|
+| 🏆 | Backdrop Build v4 | CosLynx | Jun 2024 | Finalist · AI MVP generator |
+| 🏆 | Backdrop Build v6 | CosLynx | Aug 2024 | Finalist · YC application cycle |
+| ⚡ | NYC Code Quest | Sentinel | Jul 2026 | #3 in the 8-hour live security round |
+| ⚡ | OpenAI Codex Hackathon | Intent Canvas / Revenue Rescue | Aug 2026 | Top 60 of 2,000+ applicants, Bengaluru |
+| ⚡ | Razorpay AI Buildathon | PayScope | Aug 2026 | Autonomous payment-operations agent |
+
+<br>
+
+## ▸ journey
 
 ```text
-drwxr-xr-x  CANOPY × FOUNDERS INC.         Apr 2026 – May 2026   AI Systems Engineer
-drwxr-xr-x  COSLYNX.COM                    May 2024 – May 2025   Founder & CEO
-drwxr-xr-x  REEF ~ ANIME GAME  [ACQUIRED]  Apr 2022 – Aug 2024   Ex-CEO · $15K ARR
-drwxr-xr-x  FREELANCE                      Oct 2019 – Apr 2023   Software Engineer
+* 2026 Oct ── Agent Flow v1.2.5: 14 install targets, npm package, ~2.8K installs
+* 2026 Oct ── MiroHedge: Connected Drift research program, paper-only
+* 2026 Sep ── Keystroke-LLM: NumPy Transformer + physical keyboard inference
+* 2026 Aug ── B.Sc. Cybersecurity started @ Dayananda Sagar University
+* 2026 Aug ── PayScope: autonomous payment-ops agent
+* 2026 Aug ── Intent Canvas: Codex Hackathon, Top 60
+* 2026 Jul ── Sentinel: NYC Code Quest live round, #3
+* 2026 Apr ── Canopy @ Founders, Inc.: autonomous multi-agent trading
+* 2026 Jan ── IBM AI Engineering Professional Certificate
+│
+* 2025 May ── IdolChat.app: AI character game
+│
+* 2024 Aug ── ReeF ACQUIRED · Backdrop Build v6 Finalist
+* 2024 Jun ── Backdrop Build v4 Finalist: CosLynx
+* 2024 May ── CosLynx.com founded
+│
+* 2022 Apr ── ReeF founded: anime battle Discord game
+* 2021 ──── Uchiha Bot → 500K+ interactions
+* 2019 ──── first commit. Node.js. never stopped.
 ```
 
-> **CANOPY × Founders Inc.** — Architected an autonomous multi-agent trading platform with four LLM agents across distinct methodology roles, real-time market streaming, persistent state and compliance logging.
->
-> **CosLynx.com** — Built and operated an AI code-generation platform where users shipped 400+ MVPs. Built the core LLM orchestration system in TypeScript/Node.js. 🏆 Backdrop Build v4 Finalist · 🏆 Backdrop Build v6 Finalist.
->
-> **ReeF** — Anime collecting and battling Discord game. $15K ARR, 5M+ interactions, acquired in August 2024.
->
-> **Freelance** — Node.js applications, Discord bots, automation and open-source work.
+<br>
 
----
+## ▸ stack
 
-```bash
-$ cat ./stack.sh | grep -v "#"
-```
+<div align="center">
+
+[![Stack](https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,react,nextjs,nodejs,express,vite,tailwind,prisma,aws,gcp,docker,kubernetes,vercel,githubactions,supabase,postgres,mongodb,redis,sqlite,jest,vitest,playwright,sentry&perline=14)](https://skillicons.dev)
+
+</div>
+
+<details>
+<summary><b>full list</b></summary>
 
 ```sh
 LANGUAGES=( TypeScript JavaScript Python SQL Java C C++ )
 
 FRAMEWORKS=( React.js Next.js "React Native" Expo "Node.js" "Express.js"
              Vite "Tailwind CSS" Prisma Zod LangChain
-             "Hugging Face Transformers" )
+             "Hugging Face Transformers" PyTorch NumPy )
 
 INFRA=( AWS GCP Docker Kubernetes Vercel "GitHub Actions" Supabase )
 
 DATABASES=( PostgreSQL MongoDB Redis SQLite LibSQL TursoDB )
 
 TOOLS=( Jest Vitest Playwright Sentry JWT bcryptjs WebSockets Sharp Helmet
-        hidapi NumPy "Payment APIs" "LLM APIs" SSE Nodemailer )
+        hidapi "Payment APIs" "LLM APIs" SSE Nodemailer )
 ```
 
----
+</details>
 
-```bash
-$ ls ./projects/ --sort=recent
-```
+<br>
 
-| repo | stack | signal |
-|---|---|---|
-| [`Agent Flow`](https://github.com/Drix10/agent-flow) | TypeScript · Node.js · CLI · AI agent tooling | Zero-runtime-dependency control layer for AI coding agents with context-drift detection, protected paths, secret/read restrictions, mechanical risk classification, policy gates, tamper-evident audit logs and an Implement → Review → QA pipeline · **v1.2.3 · 10★ · ~2K installs** |
-| [`MiroHedge`](https://github.com/Drix10/hypothesis-arena) | C++17 · Python · Alpaca · research/statistics | Deterministic paper-trading and research system for US stocks/ETFs with a C++ risk/execution kernel, hash-chained journal, walk-forward + purged/CPCV testing, PBO/DSR/Holm correction, live-data adapters, forward ledgers and JEV filtering · **paper-only · no capital authorized** |
-| [`Keystroke-LLM`](https://github.com/Drix10/keystroke-llm) | Python · Pure NumPy · USB HID · EVision V2 | Character-level Transformer built from scratch in NumPy that predicts next keys locally and drives Kreo Hive 75 LEDs through a reverse-engineered HID protocol · **207K training chars · sub-2ms inference path** |
-| [`Night-Hunt`](https://github.com/Drix10/ml-videos) | Python · PyTorch · NumPy · Pygame | Tiny-machine-learning video experiment where one evolving brain controls **32 mice** against an owl, gaining senses through staged training and replayable checkpoints · **9-unit MLP · 1,800-frame episodes** |
-| [`PayScope`](https://github.com/Drix10/payscope) | TypeScript · React · Node.js · Supabase · Razorpay | Autonomous payment-operations platform combining multi-agent investigation with deterministic recovery selection, signed Razorpay webhooks, transactional outbox execution, callback reconciliation and hard policy controls · **13 safety gates · <50ms SSE feed** |
-| [`Sentinel`](https://github.com/Drix10/sentinal) | TypeScript · Node.js · AST parsing · attack graphs · Gemini | Application-security CLI combining deterministic AST/attack-graph analysis with AI-assisted zero-breakage patching · **NYC Code Quest live round: #3** |
-| [`Intent Canvas`](https://github.com/Drix10/intent-canvas) | TypeScript · React · Express · Vite · Zod | Browser-first spatial workspace where datasets, documents and intent compile into inspectable computation plans before execution · **4 execution capabilities · bounded workspace model** |
-| [`IdolChat.app`](https://idolchat.app) | React Native · Expo · Node.js · Prisma · Redis | AI character mobile game for creating characters, chatting with them and collecting cards through daily drops · **~1,000 waitlist** |
-| [`ai-resources`](https://github.com/Drix10/ai-resources) | Next.js · LLMs · GitHub Actions · publishing automation | Automated technical knowledge system that curates, synthesizes and publishes engineering resources across GitHub, blogs.drix10.com, DEV.to and Medium · **115+★ · 25+ forks · 40+ categories · 200+ resource editions** |
-| [`ReeF DM Bot`](https://github.com/Drix10/instagram-ai) | Node.js · Instagram API · Gemini · MongoDB | Instagram DM companion that turns educational Reels into structured study schedules, notes and reminders using transcription + LLM workflows · **production-oriented automation stack** |
-| [`YourResume`](https://your-resume-ai.vercel.app) | React · Vite · TypeScript · Google AI | AI resume builder that combines GitHub and LinkedIn profile data into tailored, ATS-oriented resumes through a hosted web workflow · **live web app** |
-| [`PyAdvisor`](https://github.com/Drix10/PyAdvisor) | Python · Hugging Face · CLI · GitHub API | Terminal career-advisor experiment that analyzes GitHub activity and generates guided career/skill recommendations using ML-assisted workflows · **CLI-first project** |
-| `ReeF Bot` *(acq.)* | Discord.js · Node.js · Mongoose | Anime character collection and battling Discord game built from scratch and operated at scale before acquisition · **$15K ARR · 5M+ interactions · acquired Aug 2024** |
+## ▸ certifications
 
----
+**IBM AI Engineering Professional Certificate** &nbsp;·&nbsp; Issued January 2026 &nbsp;·&nbsp; Credential ID `7P0EYJX1P5NN`
 
-```bash
-$ cat ./hackathons.log
-```
-
-```text
-[🏆] Backdrop Build v4 — CosLynx                              Jun 2024
-     AI MVP generator · finalist
-
-[🏆] Backdrop Build v6 — CosLynx                              Aug 2024
-     Second finalist run · YC application cycle
-
-[ENT] OpenAI Codex Hackathon — Intent Canvas / Revenue Rescue  Aug 2026
-     Top 60 of 2,000+ applicants in Bengaluru
-
-[ENT] NYC Code Quest — Sentinel                                Jul 2026
-     8-hour live security engineering round
-
-[ENT] Razorpay AI Buildathon — PayScope                       Aug 2026
-     Autonomous payment-operations agent
-```
-
----
-
-```bash
-$ git log --oneline --graph ./journey/
-```
-
-```text
-* 2026 Oct  ── Agent Flow: v1.1.5 · agent guardrails, drift detection, gated workflows
-* 2026 Sep  ── MiroHedge: deterministic C++ paper-trading kernel + research program
-* 2026 Sep  ── Keystroke-LLM: NumPy Transformer + physical keyboard inference
-* 2026 Aug  ── B.Sc. Cybersecurity started @ Dayananda Sagar University
-* 2026 Aug  ── PayScope: autonomous payment-ops agent
-* 2026 Jul  ── Intent Canvas + Sentinel: Codex / live-round builds
-* 2026 Apr  ── Canopy @ Founders, Inc. — autonomous multi-agent trading
-* 2026 Jan  ── IBM AI Engineering Professional Certificate
-│
-* 2025 May  ── IdolChat.app — AI character game
-│
-* 2024 Aug  ── ReeF ACQUIRED · Backdrop Build v6 Finalist
-* 2024 Jun  ── Backdrop Build v4 Finalist — CosLynx
-* 2024 May  ── CosLynx.com founded
-│
-* 2022 Apr  ── ReeF founded — anime battle Discord game
-* 2021      ── Uchiha Bot → 500K+ interactions
-* 2019      ── first commit. Node.js. never stopped.
-```
-
----
-
-```bash
-$ cat ./certifications.txt
-```
-
-```text
-[✓] IBM AI Engineering Professional Certificate
-    Issued: January 2026
-    Credential ID: 7P0EYJX1P5NN
-```
-
----
+<br>
 
 <div align="center">
+
+## ▸ connect
 
 ```bash
 $ ./connect.sh
@@ -169,8 +254,8 @@ $ ./connect.sh
 
 **Open to:** AI Systems · Agent Infrastructure · Full-Stack AI · LLM · Security · Research Systems · Founding Engineer roles + collabs
 
-[![LinkedIn](https://img.shields.io/badge/▸_linkedin.com/in/drix10-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drix10)
-[![Email](https://img.shields.io/badge/▸_ggdrishtant@gmail.com-EA4335?style=for-the-badge)](mailto:ggdrishtant@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/drix10-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drix10)
+[![Email](https://img.shields.io/badge/ggdrishtant@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggdrishtant@gmail.com)
 
 *`EOF`*
 
