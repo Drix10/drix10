@@ -8,9 +8,13 @@
 
 Bengaluru, India &nbsp;·&nbsp; B.Sc. Cybersecurity @ Dayananda Sagar University &nbsp;·&nbsp; building till it's fun
 
+I build **AI agent infrastructure, LLM systems and security tools**: [Agent Flow](https://github.com/Drix10/agent-flow) (guardrails for AI coding agents), [MiroHedge](https://github.com/Drix10/hypothesis-arena) (AI-assisted systematic fund), [Guardian](https://github.com/Drix10/guardian-gpt) (UPI scam interceptor) and [Sentinel](https://github.com/Drix10/sentinal) (AI security CLI).
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drix10)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggdrishtant@gmail.com)
 [![Website](https://img.shields.io/badge/drix10.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drix10.com/)
+[![X](https://img.shields.io/badge/@DrishtantGhosh-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DrishtantGhosh)
+[![Blog](https://img.shields.io/badge/blogs.drix10.com-111827?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.drix10.com)
 [![CosLynx](https://img.shields.io/badge/CosLynx.com-FF6B35?style=for-the-badge)](https://coslynx.com)
 [![IdolChat](https://img.shields.io/badge/IdolChat.app-8B5CF6?style=for-the-badge)](https://idolchat.app)
 [![Followers](https://img.shields.io/github/followers/Drix10?style=for-the-badge&logo=github&label=followers&color=181717)](https://github.com/Drix10?tab=followers)
@@ -39,7 +43,7 @@ Bengaluru, India &nbsp;·&nbsp; B.Sc. Cybersecurity @ Dayananda Sagar University
   "alias"   : "Drix10",
   "base"    : "Bengaluru, Karnataka, India",
   "studying": "B.Sc. Cybersecurity @ Dayananda Sagar University (2026–2029)",
-  "current" : ["Agent Flow", "MiroHedge", "Keystroke-LLM", "IdolChat.app"],
+  "current" : ["Agent Flow", "MiroHedge", "Guardian", "Content Factory", "Keystroke-LLM", "IdolChat.app"],
   "focus"   : ["AI systems", "agent infrastructure", "security", "research + trading"],
   "status"  : "building till it's fun"
 }
@@ -108,6 +112,7 @@ News about one company reaches its suppliers, customers and peers late. The *Con
 
 | Project | What it does | Signal |
 |---|---|---|
+| [**Guardian**](https://github.com/Drix10/guardian-gpt)<br>`Node.js` `OpenAI Decisions API` `MCP` | Stops UPI and "digital arrest" scams at the moment of payment: one Decisions API call reads the chat, call signals, screenshots and payee, then allows, warns or holds for family approval through a ChatGPT plugin. English + Hindi. | **~185 ms per decision · 19/19 scams held** · OpenAI DevDay Community Hack |
 | [**Sentinel**](https://github.com/Drix10/sentinal)<br>`TypeScript` `AST` `Gemini` | Application-security CLI: compiles code into an IR and knowledge graph, synthesizes multi-hop attack graphs, then applies AI patches only after zero-breakage verification, with snapshot rollback. SARIF export for GitHub Code Scanning. | **NYC Code Quest live round: #3** · [`npm i -g sentinel-ai-cli`](https://www.npmjs.com/package/sentinel-ai-cli) |
 | [**PayScope**](https://github.com/Drix10/payscope)<br>`TypeScript` `React` `Supabase` `Razorpay` | Autonomous payment-operations platform: signed Razorpay webhooks become incident timelines, a Supervisor / Risk Analyst / Recovery Planner investigation, deterministic recovery selection, transactional-outbox execution and callback reconciliation. | **13 safety gates · <50ms SSE feed** · Razorpay AI Buildathon |
 | [**Intent Canvas**](https://github.com/Drix10/intent-canvas)<br>`TypeScript` `React` `Vite` `Zod` | Browser-first spatial workspace where datasets, documents and intent compile into an inspectable plan you approve before anything runs. | **4 execution capabilities** · [live demo](https://intent-canvas.vercel.app/) |
@@ -130,6 +135,7 @@ News about one company reaches its suppliers, customers and peers late. The *Con
 | [**ReeF DM Bot**](https://github.com/Drix10/instagram-ai)<br>`Node.js` `Gemini` `MongoDB` | Instagram DM companion that turns educational Reels into weekly study schedules, notes and reminders using transcription and LLM workflows. | production-oriented automation stack |
 | [**autoposter**](https://github.com/Drix10/autoposter)<br>`Node.js` `Discord` | Discord bot that downloads Instagram reels and reposts them to multiple accounts with custom overlays. | ![stars](https://img.shields.io/github/stars/Drix10/autoposter?style=flat-square&label=%E2%98%85) |
 | [**PyAdvisor**](https://github.com/Drix10/PyAdvisor)<br>`Python` `Hugging Face` | Terminal career advisor that analyzes your GitHub activity and generates guided skill recommendations. | ![stars](https://img.shields.io/github/stars/Drix10/PyAdvisor?style=flat-square&label=%E2%98%85) · CLI-first |
+| **Content Factory** *(private)*<br>`Claude Code` `TypeScript` `three.js` `ElevenLabs` | Turns questions about AI and everyday tech into narrated Instagram reels: commissioned, fact-checked in code, voiced, and built frame by frame by a Claude Code agent on a motion-graphics engine. | in active development |
 | **ReeF Bot** *(acquired)*<br>`Discord.js` `Mongoose` | Anime character collection and battling Discord game, built from scratch and run at scale. | **$15K ARR · 5M+ interactions · acquired Aug 2024** |
 
 <br>
@@ -148,7 +154,7 @@ Architected an autonomous multi-agent trading platform with four LLM agents in d
 <summary><b>CosLynx.com</b> &nbsp;·&nbsp; Founder & CEO &nbsp;·&nbsp; <i>May 2024 – May 2025</i></summary>
 <br>
 
-Built and operated an AI code-generation platform where users shipped **400+ MVPs**. Wrote the core LLM orchestration system in TypeScript/Node.js. 🏆 Backdrop Build v4 Finalist · 🏆 Backdrop Build v6 Finalist.
+Built and operated an AI code-generation platform where users shipped **400+ MVPs**. Wrote the core LLM orchestration system in TypeScript/Node.js. 🏆 Backdrop Build v4 Winner · 🏆 Backdrop Build v6 Winner.
 
 </details>
 
@@ -164,7 +170,7 @@ Anime collecting and battling Discord game. **$15K ARR, 5M+ interactions**, acqu
 <summary><b>Freelance</b> &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; <i>Oct 2019 – Apr 2023</i></summary>
 <br>
 
-Node.js applications, Discord bots, automation and open-source work.
+Node.js applications, Discord bots, automation and open-source work. Built [Uchiha Bot](https://github.com/Drix10/Uchiha), which passed 500K interactions in 2021.
 
 </details>
 
@@ -174,18 +180,23 @@ Node.js applications, Discord bots, automation and open-source work.
 
 | | Event | Project | When | Result |
 |:-:|---|---|---|---|
-| 🏆 | Backdrop Build v4 | CosLynx | Jun 2024 | Finalist · AI MVP generator |
-| 🏆 | Backdrop Build v6 | CosLynx | Aug 2024 | Finalist · YC application cycle |
+| 🏆 | Backdrop Build v4 | CosLynx | Jun 2024 | Winner · AI MVP generator |
+| 🏆 | Backdrop Build v6 | CosLynx | Aug 2024 | Winner · YC application cycle |
+| 🎯 | Founders, Inc. Canopy | MiroHedge | Apr 2026 | Selected · ~1.5% acceptance |
+| ⚡ | WEEX AI Wars | Multi-agent crypto trader | 2026 | Finalist |
 | ⚡ | NYC Code Quest | Sentinel | Jul 2026 | #3 in the 8-hour live security round |
 | ⚡ | OpenAI Codex Hackathon | Intent Canvas / Revenue Rescue | Aug 2026 | Top 60 of 2,000+ applicants, Bengaluru |
 | ⚡ | Razorpay AI Buildathon | PayScope | Aug 2026 | Autonomous payment-operations agent |
+| ⚡ | OpenAI DevDay Community Hack | Guardian | Oct 2026 | Payment-time scam interceptor, Bengaluru |
 
 <br>
 
 ## ▸ journey
 
 ```text
-* 2026 Oct ── Agent Flow v1.2.5: 14 install targets, npm package, ~2.8K installs
+* 2026 Oct ── Guardian: OpenAI DevDay Community Hack, Bengaluru
+* 2026 Oct ── Content Factory: AI-built narrated explainer reels
+* 2026 Oct ── Agent Flow v1.2.7: 14 install targets, 3.4K+ npm downloads a month
 * 2026 Oct ── MiroHedge: Connected Drift research program, paper-only
 * 2026 Sep ── Keystroke-LLM: NumPy Transformer + physical keyboard inference
 * 2026 Aug ── B.Sc. Cybersecurity started @ Dayananda Sagar University
@@ -197,8 +208,8 @@ Node.js applications, Discord bots, automation and open-source work.
 │
 * 2025 May ── IdolChat.app: AI character game
 │
-* 2024 Aug ── ReeF ACQUIRED · Backdrop Build v6 Finalist
-* 2024 Jun ── Backdrop Build v4 Finalist: CosLynx
+* 2024 Aug ── ReeF ACQUIRED · Backdrop Build v6 Winner
+* 2024 Jun ── Backdrop Build v4 Winner: CosLynx
 * 2024 May ── CosLynx.com founded
 │
 * 2022 Apr ── ReeF founded: anime battle Discord game
@@ -256,6 +267,7 @@ $ ./connect.sh
 
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/drix10-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drix10)
 [![Email](https://img.shields.io/badge/ggdrishtant@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggdrishtant@gmail.com)
+[![X](https://img.shields.io/badge/@DrishtantGhosh-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DrishtantGhosh)
 
 *`EOF`*
 
