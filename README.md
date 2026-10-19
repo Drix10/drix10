@@ -8,7 +8,7 @@
 
 Bengaluru, India &nbsp;·&nbsp; B.Sc. Cybersecurity @ Dayananda Sagar University &nbsp;·&nbsp; building till it's fun
 
-I build **AI agent infrastructure, LLM systems and security tools**: [Agent Flow](https://github.com/Drix10/agent-flow) (guardrails for AI coding agents), [MiroHedge](https://github.com/Drix10/hypothesis-arena) (AI-assisted systematic fund), [Guardian](https://github.com/Drix10/guardian-gpt) (UPI scam interceptor) and [Sentinel](https://github.com/Drix10/sentinal) (AI security CLI).
+I build **AI agent infrastructure, LLM systems and security tools**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drix10)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggdrishtant@gmail.com)
@@ -174,23 +174,6 @@ Node.js applications, Discord bots, automation and open-source work. Built [Uchi
 
 </details>
 
-<br>
-
-## ▸ hackathons
-
-| | Event | Project | When | Result |
-|:-:|---|---|---|---|
-| 🏆 | Backdrop Build v4 | CosLynx | Jun 2024 | Winner · AI MVP generator |
-| 🏆 | Backdrop Build v6 | CosLynx | Aug 2024 | Winner · YC application cycle |
-| 🎯 | Founders, Inc. Canopy | MiroHedge | Apr 2026 | Selected · ~1.5% acceptance |
-| ⚡ | WEEX AI Wars | Multi-agent crypto trader | 2026 | Finalist |
-| ⚡ | NYC Code Quest | Sentinel | Jul 2026 | #3 in the 8-hour live security round |
-| ⚡ | OpenAI Codex Hackathon | Intent Canvas / Revenue Rescue | Aug 2026 | Top 60 of 2,000+ applicants, Bengaluru |
-| ⚡ | Razorpay AI Buildathon | PayScope | Aug 2026 | Autonomous payment-operations agent |
-| ⚡ | OpenAI DevDay Community Hack | Guardian | Oct 2026 | Payment-time scam interceptor, Bengaluru |
-
-<br>
-
 ## ▸ journey
 
 ```text
@@ -221,15 +204,6 @@ Node.js applications, Discord bots, automation and open-source work. Built [Uchi
 
 ## ▸ stack
 
-<div align="center">
-
-[![Stack](https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,react,nextjs,nodejs,express,vite,tailwind,prisma,aws,gcp,docker,kubernetes,vercel,githubactions,supabase,postgres,mongodb,redis,sqlite,jest,vitest,playwright,sentry&perline=14)](https://skillicons.dev)
-
-</div>
-
-<details>
-<summary><b>full list</b></summary>
-
 ```sh
 LANGUAGES=( TypeScript JavaScript Python SQL Java C C++ )
 
@@ -244,16 +218,6 @@ DATABASES=( PostgreSQL MongoDB Redis SQLite LibSQL TursoDB )
 TOOLS=( Jest Vitest Playwright Sentry JWT bcryptjs WebSockets Sharp Helmet
         hidapi "Payment APIs" "LLM APIs" SSE Nodemailer )
 ```
-
-</details>
-
-<br>
-
-## ▸ certifications
-
-**IBM AI Engineering Professional Certificate** &nbsp;·&nbsp; Issued January 2026 &nbsp;·&nbsp; Credential ID `7P0EYJX1P5NN`
-
-<br>
 
 <div align="center">
 
