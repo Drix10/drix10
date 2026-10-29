@@ -15,7 +15,7 @@ I build **AI agent infrastructure, LLM systems and security tools**
 [![Website](https://img.shields.io/badge/drix10.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drix10.com/)
 [![X](https://img.shields.io/badge/@DrishtantGhosh-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DrishtantGhosh)
 
-[**now**](#-now) · [**projects**](#-projects) · [**experience**](#-experience) · [**hackathons**](#-hackathons) · [**journey**](#-journey) · [**stack**](#-stack) · [**connect**](#-connect)
+[**experience**](#-experience) · [**hackathons**](#-hackathons) · [**journey**](#-journey) · [**stack**](#-stack) · [**connect**](#-connect)
 
 </div>
 
