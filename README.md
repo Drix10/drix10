@@ -14,10 +14,6 @@ I build **AI agent infrastructure, LLM systems and security tools**
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggdrishtant@gmail.com)
 [![Website](https://img.shields.io/badge/drix10.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drix10.com/)
 [![X](https://img.shields.io/badge/@DrishtantGhosh-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DrishtantGhosh)
-[![Blog](https://img.shields.io/badge/blogs.drix10.com-111827?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.drix10.com)
-[![CosLynx](https://img.shields.io/badge/CosLynx.com-FF6B35?style=for-the-badge)](https://coslynx.com)
-[![IdolChat](https://img.shields.io/badge/IdolChat.app-8B5CF6?style=for-the-badge)](https://idolchat.app)
-[![Followers](https://img.shields.io/github/followers/Drix10?style=for-the-badge&logo=github&label=followers&color=181717)](https://github.com/Drix10?tab=followers)
 
 [**now**](#-now) · [**projects**](#-projects) · [**experience**](#-experience) · [**hackathons**](#-hackathons) · [**journey**](#-journey) · [**stack**](#-stack) · [**connect**](#-connect)
 
