@@ -6,7 +6,7 @@
 
 *20 · serial founder · AI systems engineer · building since 2019*
 
-Bengaluru, India &nbsp;·&nbsp; B.Sc. Cybersecurity @ Dayananda Sagar University &nbsp;·&nbsp; building till it's fun
+Bengaluru, India &nbsp;·&nbsp; Cybersecurity @ DSU &nbsp;·&nbsp; building till it's fun
 
 I build **AI agent infrastructure, LLM systems and security tools**
 
