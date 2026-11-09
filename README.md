@@ -23,9 +23,9 @@ I build **AI agent infrastructure, LLM systems and security tools**
 
 <div align="center">
 
-| **$15K ARR** | **5M+** | **400+** | **3** |
+| **$15K ARR** | **5M+** | **400+** | **Won 2** |
 |:---:|:---:|:---:|:---:|
-| at 16 yrs old, acquired | bot interactions<br>(ReeF + Uchiha Bot) | MVPs shipped<br>via CosLynx | hackathon<br>rounds in 2026 |
+| at 16 yrs old, acquired | user interactions<br>(ReeF) | MVPs shipped<br>via CosLynx | International <br>hackathons |
 
 </div>
 
