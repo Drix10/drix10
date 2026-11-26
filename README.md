@@ -92,26 +92,45 @@ Node.js applications, Discord bots, automation and open-source work. Built [Uchi
 * 2026 Nov ── awesome-prompts: 546 one-line prompts for Claude Code / Codex / Cursor (34 stars)
 * 2026 Nov ── agent-flow eval: 234 sessions audited, guard baselines for unattended coding
 * 2026 Oct ── coslynx-oss: claim-check, ffmpeg-word-captions, open-media-finder, video-safety-check
-* 2026 Oct ── Guardian: OpenAI DevDay Community Hack, Bengaluru
-* 2026 Oct ── Content Factory: AI-built narrated explainer reels
+* 2026 Oct ── Guardian: OpenAI DevDay Community Hack, Bengaluru (UPI scam-stopper)
+* 2026 Oct ── MiroHedge frontend: research-lab landing for the news-spread fund
 * 2026 Oct ── Agent Flow v1.2.7: 14 install targets, 3.4K+ npm downloads a month
-* 2026 Oct ── MiroHedge: Connected Drift research program, paper-only
+* 2026 Sep ── ml-videos: tiny nets trained live, rendered as watchable videos
 * 2026 Sep ── Keystroke-LLM: NumPy Transformer + physical keyboard inference
+* 2026 Sep ── Agent Flow: guardrails for unattended coding agents (13 stars)
 * 2026 Aug ── B.Sc. Cybersecurity started @ Dayananda Sagar University
-* 2026 Aug ── PayScope: autonomous payment-ops agent
-* 2026 Aug ── Intent Canvas: Codex Hackathon, Top 60
-* 2026 Jul ── Sentinel: NYC Code Quest live round, #3
+* 2026 Aug ── PayScope: autonomous payment-ops agent for Razorpay merchants for Razorpay
+* 2026 Aug ── Intent Canvas: Codex Hackathon, Top 60 (spatial workspace for datasets + docs)
+* 2026 Jul ── Sentinel: NYC Code Quest live round, #3 (codebase-to-IR security CLI) (codebase-to-IR security CLI)
+* 2026 Jul ── instagram-ai: study companion in IG DMs that answers on educational Reels
 * 2026 Apr ── Canopy @ Founders, Inc.: autonomous multi-agent trading
 * 2026 Jan ── IBM AI Engineering Professional Certificate
 │
-* 2025 May ── IdolChat.app: AI character game
+* 2025 Dec ── YourResume: GitHub + LinkedIn → polished resume (6 stars)
+* 2025 Dec ── hypothesis-arena: MiroHedge news-spread systematic fund, paper-only (10 stars)
+* 2025 Nov ── autoposter: Reels downloader + Gemini-caption marketing bot (500,000+ views)
+* 2025 Oct ── IdolChat.app: AI character chat + card-collection game (1,000+ on waitlist)
+* 2025 Jun ── twitter-tracker: Selenium X watcher that filters tracked accounts
+* 2025 Mar ── 3D landing template: React Three Fiber + Three.js + GSAP scroll
 │
+* 2024 Nov ── ai-resources started: hand-picked X lists → grounded briefings
 * 2024 Aug ── ReeF ACQUIRED · Backdrop Build v6 Winner
 * 2024 Jun ── Backdrop Build v4 Winner: CosLynx
-* 2024 May ── CosLynx.com founded
+* 2024 May ── CosLynx.com founded: AI code-generation platform, 400+ MVPs shipped
+* 2024 Mar ── PyAdvisor: AI career-advisor CLI that reads your GitHub profile
+* 2024 Mar ── CozyxOnePiece: cozy One Piece Opera GX mod with lofi + themes
+* 2024 Feb ── reef-bot: open multipurpose Discord.js template (economy, moderation)
 │
-* 2022 Apr ── ReeF founded: anime battle Discord game
-* 2021 ──── Uchiha Bot → 500K+ interactions
+* 2022 Dec ── weky-v14: Discord mini-games rebuilt for discord.js v14 slash commands
+* 2022 Oct ── 1on1: React Native + Expo + Firebase chat app with rooms and auth
+* 2022 Jun ── discord-bot-web: free bot site template in plain HTML/CSS/JS (30 stars, 11 forks)
+* 2022 Apr ── ReeF founded: anime-collect + battle game → $15K ARR, 5M+ interactions, acquired 2024
+* 2021 Sep ── Uchiha Bot: discord.js v12 moderation + giveaways + games → 500K+ interactions
+* 2021 Aug ── Uchiha: multipurpose discord.js pack with moderation, games, image gen
+* 2020 Nov ── arceus-bot: archived music-command pack from early Discord.js bots
+* 2020 Jun ── SaveWater @ MLH NotUniversity Hacks: water-wastage awareness project
+* 2020 May ── MIT App Inventor: COVID tracker, TensorFlow.js image recognition
+* 2020 Mar ── BlueJ: Java practice — loops and conditionals → first OOP programs
 * 2019 ──── first commit. Node.js. never stopped.
 ```
 
