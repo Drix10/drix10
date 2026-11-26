@@ -52,6 +52,14 @@ I build **AI agent infrastructure, LLM systems and security tools**
 ## ▸ experience
 
 <details open>
+<summary><b>Independent / Open Source</b> &nbsp;·&nbsp; AI Systems Engineer &nbsp;·&nbsp; <i>Nov 2024 – now</i></summary>
+<br>
+
+Maintain [ai-resources](https://github.com/Drix10/ai-resources) (100K+ fact-gated AI briefings, 135 stars, MCP server + Agent Skill), [agent-flow](https://github.com/Drix10/agent-flow) (guardrails for unattended coding agents, npm + pre-commit hooks) and [awesome-prompts](https://github.com/Drix10/awesome-prompts) (546 one-line coding prompts, 34 stars).
+
+</details>
+
+<details open>
 <summary><b>Canopy × Founders Inc.</b> &nbsp;·&nbsp; AI Systems Engineer &nbsp;·&nbsp; <i>Apr 2026 – May 2026</i></summary>
 <br>
 
@@ -83,6 +91,19 @@ Node.js applications, Discord bots, automation and open-source work. Built [Uchi
 
 </details>
 
+## ▸ hackathons
+
+```text
+* 2026 Oct ── OpenAI DevDay Community Hack — Guardian (UPI scam-stopper)
+* 2026 Aug ── Codex Hackathon — Intent Canvas (spatial datasets workspace)
+* 2026 Jul ── NYC Code Quest, live round #3 — Sentinel (codebase-to-IR security review)
+* 2024 Aug ── Backdrop Build v6 Winner — CosLynx
+* 2024 Jun ── Backdrop Build v4 Winner — CosLynx
+* 2020 Jun ── MLH NotUniversity Hacks — SaveWater (water-wastage planning)
+```
+
+<br>
+
 ## ▸ journey
 
 ```text
@@ -99,9 +120,9 @@ Node.js applications, Discord bots, automation and open-source work. Built [Uchi
 * 2026 Sep ── Keystroke-LLM: NumPy Transformer + physical keyboard inference
 * 2026 Sep ── Agent Flow: guardrails for unattended coding agents (13 stars)
 * 2026 Aug ── B.Sc. Cybersecurity started @ Dayananda Sagar University
-* 2026 Aug ── PayScope: autonomous payment-ops agent for Razorpay merchants for Razorpay
+* 2026 Aug ── PayScope: autonomous payment-ops agent for Razorpay merchants
 * 2026 Aug ── Intent Canvas: Codex Hackathon, Top 60 (spatial workspace for datasets + docs)
-* 2026 Jul ── Sentinel: NYC Code Quest live round, #3 (codebase-to-IR security CLI) (codebase-to-IR security CLI)
+* 2026 Jul ── Sentinel: NYC Code Quest live round, #3 (codebase-to-IR security CLI)
 * 2026 Jul ── instagram-ai: study companion in IG DMs that answers on educational Reels
 * 2026 Apr ── Canopy @ Founders, Inc.: autonomous multi-agent trading
 * 2026 Jan ── IBM AI Engineering Professional Certificate
