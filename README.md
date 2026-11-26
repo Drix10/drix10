@@ -128,7 +128,7 @@ Node.js applications, Discord bots, automation and open-source work. Built [Uchi
 * 2026 Jan ── IBM AI Engineering Professional Certificate
 │
 * 2025 Dec ── YourResume: GitHub + LinkedIn → polished resume (6 stars)
-* 2025 Dec ── hypothesis-arena: MiroHedge news-spread systematic fund, paper-only (10 stars)
+* 2025 Dec ── hypothesis-arena: MiroHedge fund — C++17 kernel, preregistered backtests (10 stars)
 * 2025 Nov ── autoposter: Reels downloader + Gemini-caption marketing bot (500,000+ views)
 * 2025 Oct ── IdolChat.app: AI character chat + card-collection game (1,000+ on waitlist)
 * 2025 Jun ── twitter-tracker: Selenium X watcher that filters tracked accounts
