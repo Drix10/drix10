@@ -27,6 +27,10 @@ I build **AI agent infrastructure, LLM systems and security tools**
 |:---:|:---:|:---:|:---:|
 | at 16 yrs old, acquired | user interactions<br>(ReeF) | MVPs shipped<br>via CosLynx | International <br>hackathons |
 
+| **100K+** | **135★** | **546** | **6 accts** |
+|:---:|:---:|:---:|:---:|
+| AI briefings<br>(ai-resources) | stars on<br>ai-resources | one-line prompts<br>(awesome-prompts) | self-posting reels<br>(CosLynx Reels) |
+
 </div>
 
 <br>
@@ -39,7 +43,7 @@ I build **AI agent infrastructure, LLM systems and security tools**
   "alias"   : "Drix10",
   "base"    : "Bengaluru, Karnataka, India",
   "studying": "B.Sc. Cybersecurity @ Dayananda Sagar University (2026–2029)",
-  "current" : ["Agent Flow", "MiroHedge", "Guardian", "Content Factory", "Keystroke-LLM", "IdolChat.app"],
+  "current" : ["Content Factory v2.2.1", "CosLynx Reels", "AI Resources Pipeline", "Agent Flow", "awesome-prompts"],
   "focus"   : ["AI systems", "agent infrastructure", "security", "research + trading"],
   "status"  : "building till it's fun"
 }
@@ -82,6 +86,12 @@ Node.js applications, Discord bots, automation and open-source work. Built [Uchi
 ## ▸ journey
 
 ```text
+* 2026 Nov ── CosLynx Reels: 6 IG+YT accounts, Lyn 3D lynx reacts, self-posting + self-repair agent
+* 2026 Nov ── Content Factory v2.2.1: one director session, 9 reel forms, sales site w/ Dodo checkout
+* 2026 Nov ── AI Resources: 100K+ briefings, MCP server + ai-news Skill, public API + HF dataset (135 stars)
+* 2026 Nov ── awesome-prompts: 546 one-line prompts for Claude Code / Codex / Cursor (34 stars)
+* 2026 Nov ── agent-flow eval: 234 sessions audited, guard baselines for unattended coding
+* 2026 Oct ── coslynx-oss: claim-check, ffmpeg-word-captions, open-media-finder, video-safety-check
 * 2026 Oct ── Guardian: OpenAI DevDay Community Hack, Bengaluru
 * 2026 Oct ── Content Factory: AI-built narrated explainer reels
 * 2026 Oct ── Agent Flow v1.2.7: 14 install targets, 3.4K+ npm downloads a month
@@ -121,7 +131,8 @@ INFRA=( AWS GCP Docker Kubernetes Vercel "GitHub Actions" Supabase )
 DATABASES=( PostgreSQL MongoDB Redis SQLite LibSQL TursoDB )
 
 TOOLS=( Jest Vitest Playwright Sentry JWT bcryptjs WebSockets Sharp Helmet
-        hidapi "Payment APIs" "LLM APIs" SSE Nodemailer )
+        hidapi "Payment APIs" "LLM APIs" SSE Nodemailer Hyperframes GSAP
+        Kokoro Demucs yt-dlp NVENC ElevenLabs OpenRouter )
 ```
 
 <div align="center">
